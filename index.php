@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function() {
             </p>
             <div class="main-info__wrapper wow fadeInDown" data-wow-duration="1.5s" data-wow-delay="1s">
                 <ul class="main-info__text desk">
-                    <li>Suppression de l'Appétit</li>
+                    <li>Suppression  de l'Appétit</li>
                     <li>Métabolisme Accéléré</li>
                     <li>Brûlage Intensif des Graisses</li>
                     <li>100% Naturel & Sûr</li>
